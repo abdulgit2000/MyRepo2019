@@ -1,9 +1,6 @@
 # MyRepo2019
 hello
-
-no no conflict conflict
-
-
+conflict conflict conflict
 whatever
 deleted
 

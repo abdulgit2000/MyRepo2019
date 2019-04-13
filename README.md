@@ -1,7 +1,7 @@
 # MyRepo2019
 hello
 
-no conflict
+no no conflict conflict
 
 
 whatever
